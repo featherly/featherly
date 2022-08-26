@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @featherly
 - 👀 I’m interested in programming, AI, AI assisted programming, KR&R and quantum information algorithms
-- 🌱 I’m currently learning fastai, transformers and foundation models
+- 🌱 I’m currently learning NLP, transformers and foundation models
 - 💞️ I’m over committed just now but still interested to collaborate on any of the above
 - 📫 How to reach me John@Featherly.net
 
